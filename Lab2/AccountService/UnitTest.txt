@@ -1,0 +1,5 @@
+Input: john123,pass123,john@example.com | Expected: true | Actual: true | Result: PASS
+Input: null,pass123,john@example.com | Expected: false | Actual: false | Result: PASS
+Input: alice,short,alice@mail.com | Expected: false | Actual: false | Result: PASS
+Input: bob123,password,bobmail.com | Expected: false | Actual: false | Result: PASS
+Input: carol,password,carol@domain.com | Expected: true | Actual: true | Result: PASS
