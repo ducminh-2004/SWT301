@@ -1,0 +1,8 @@
+email,password,expected
+phamducminh922004@gmail.com,Matkhau147@,success
+phamducminh922004@gmail.com,wrongpass,error
+wrongemail@gmail.com,Matkhau147@,error
+phamducminh922004gmail.com,Matkhau147@,error
+phamducminh922004@,Matkhau147@,error
+minhpdde180304@fpt.edu.vn,Matkhau147@,error
+"",Password1!,error

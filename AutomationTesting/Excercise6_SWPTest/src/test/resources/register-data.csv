@@ -1,0 +1,12 @@
+username,email,password,confirmPassword,expected
+FPT,FPT3@gmail.com,Matkhau147@,Matkhau147@,success
+FPT,FPT2@gmail.com,Matkhau147@,Matkhau148@,error
+FPT,FPTgmail.com,Matkhau147@,Matkhau147@,error
+FPT,FPT@gmail,Matkhau147@,Matkhau147@,error
+FPT,FPT2@gmail.com,matkhau147@,matkhau147@,error
+FPT,FPT2@gmail.com,Matkhau@,Matkhau@,error
+FPT,FPT2@gmail.com,Matkhau147,Matkhau147,error
+FPT,FPT2@gmail.com,M147@,M147@,error
+"",FPT@gmail.com,Matkhau147@,Matkhau147@,error
+ducminh,phamducminh922004@gmail.com,Matkhau147@,Matkhau147@,error
+
